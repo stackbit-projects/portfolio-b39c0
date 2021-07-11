@@ -21,7 +21,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: ''
+  title: Our Realizations | Alyvia
   description: ''
   robots: []
   extra: []
