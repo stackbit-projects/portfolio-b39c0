@@ -23,7 +23,7 @@ sections:
 
           Ghelamco Arena is the only arena ever built in Ghent. Making
           entertainment the main focus that ever existed in that city.
-        content_align: left
+        content_align: right
         actions: []
         actions_align: left
         actions_width: auto
