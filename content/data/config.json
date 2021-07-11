@@ -17,12 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "primary",
-                "has_icon": false
-            },
-            {
                 "label": "Realizations",
                 "url": "#",
                 "style": "link",
@@ -32,6 +26,12 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "primary",
+                "has_icon": false
             }
         ],
         "has_secondary_nav": false,
