@@ -17,17 +17,12 @@ sections:
     grid_items:
       - title: Ghelamco Arena
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Majestic Ghent
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Ghelamco Arena is the only arena ever built in Ghent. Making
+          entertainment the main focus that ever existed in that city.
         content_align: left
         actions: []
         actions_align: left
