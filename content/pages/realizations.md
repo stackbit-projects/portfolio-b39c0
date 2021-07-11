@@ -26,7 +26,11 @@ seo:
     Behold our pride. Foundations upon foundation the masterpieces we gathered,
     maintained and much more to lay your eyes on.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /_static/app-assets/images/feature-1.svg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
