@@ -2,7 +2,7 @@
 title: Realizations
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Realizations
     subtitle: What we are proud of
     actions: []
     grid_items: []
