@@ -16,7 +16,7 @@ sections:
         type: action
     grid_items:
       - title: Ghelamco Arena
-        title_align: left
+        title_align: right
         content: >-
           ## Lorem ipsum
 
