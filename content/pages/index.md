@@ -208,7 +208,9 @@ sections:
     background_image_opacity: 8
 seo:
   title: Alyvia | Innovative Freelancer
-  description: The preview of the Personal theme
+  description: >-
+    Hello I am Alyvia. I am a fullstack developer and love making robust,
+    friendly and functional web applications.
   extra:
     - name: 'og:type'
       value: website
