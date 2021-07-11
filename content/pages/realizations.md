@@ -29,7 +29,7 @@ sections:
         actions_width: auto
         image_alt: Ghelamco Arena
         image_position: top
-        image_width: fifty
+        image_width: sixty
         image_align: left
         image_has_padding: false
         type: grid_item
