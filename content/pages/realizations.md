@@ -1,7 +1,7 @@
 ---
 title: Realizations
 sections:
-  - section_id: lorem-ipsum
+  - section_id: realizations
     title: Realizations
     subtitle: Our pride
     actions: []
