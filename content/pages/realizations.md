@@ -6,7 +6,7 @@ sections:
     subtitle: Our pride
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Ghelamco
         subtitle: lorem-ipsum
         title_align: left
         content: >-
