@@ -37,6 +37,10 @@ seo:
         gathered, maintained and much more to lay your eyes on.
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Our Realizations | Alyvia
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
