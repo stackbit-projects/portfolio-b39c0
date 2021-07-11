@@ -14,7 +14,7 @@
             {
                 "label": "Who",
                 "url": "/about",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "label": "Contact",
