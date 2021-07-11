@@ -5,7 +5,7 @@ sections:
     title: Realizations
     subtitle: Our pride
     actions:
-      - label: lorem-ipsum
+      - label: See more
         url: '#'
         style: link
         has_icon: false
