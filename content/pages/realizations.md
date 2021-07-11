@@ -6,7 +6,7 @@ sections:
     subtitle: Our pride
     actions:
       - label: See more
-        url: '#'
+        url: '#more'
         style: link
         has_icon: false
         icon: arrow-left
