@@ -9,7 +9,7 @@ sections:
         url: '#more'
         style: secondary
         has_icon: false
-        icon: facebook
+        icon: arrow-left
         icon_position: right
         new_window: false
         no_follow: false
