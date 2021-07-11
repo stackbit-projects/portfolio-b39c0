@@ -219,7 +219,9 @@ seo:
       value: Alyvia | Innovative Freelancer
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Hello I am Alyvia. I am a fullstack developer and love making robust,
+        friendly and functional web applications.
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
