@@ -19,7 +19,7 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "has_secondary_nav": false,
