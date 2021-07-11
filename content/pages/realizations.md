@@ -31,6 +31,12 @@ seo:
       value: /_static/app-assets/images/feature-1.svg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Behold our pride. Foundations upon foundation the masterpieces we
+        gathered, maintained and much more to lay your eyes on.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
