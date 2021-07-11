@@ -22,7 +22,9 @@ sections:
     type: grid_section
 seo:
   title: Our Realizations | Alyvia
-  description: ''
+  description: >-
+    Behold our pride. Foundations upon foundation the masterpieces we gathered,
+    maintained and much more to lay your eyes on.
   robots: []
   extra: []
   type: stackbit_page_meta
